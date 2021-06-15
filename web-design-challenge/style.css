@@ -1,0 +1,29 @@
+#thin_border {
+    border: 1px solid #00c5e7;
+}
+
+#table_border{
+    border: 5px solid #00c5e7;
+    border-top-style: hidden;
+    border-right-style: solid;
+    border-bottom-style: hidden;
+    border-left-style: solid;
+}
+
+
+
+.home_button{
+
+    color:red;
+    background-color: blue;
+
+
+}
+
+
+#temporary_id{
+
+    color:red;
+    background-color: blue;
+
+}
